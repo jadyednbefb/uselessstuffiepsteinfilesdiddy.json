@@ -1,0 +1,9 @@
+local nicetryskid = {
+    d = {
+        "ewogICAgInNldHRpbmdzIjogewogICAgICAgICJlbmFibGVkIjogdHJ1ZSwKICAgICAgICAi",
+        "ZmFpbE1vZGUiOiAia2ljayIKICAgIH0sCiAgICAidXNlcnMiOiB7CiAgICAgICAgIjk1MjQ2",
+        "MDAwOTQiOiB7CiAgICAgICAgICAgICJuYW1lIjogImZpcnN0dG93aW4xMjM0IiwKICAgICAg",
+        "ICAgICAgInJvbGUiOiAib3duZXIiLAogICAgICAgICAgICAiZXhwaXJlcyI6IG51bGwKICAg",
+        "ICAgICB9CiAgICB9LAogICAgImJhbm5lZCI6IHt9Cn0="
+    }
+}
